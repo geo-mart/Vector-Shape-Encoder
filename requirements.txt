@@ -1,0 +1,11 @@
+numpy==1.19.4
+geopandas==0.8.1
+matplotlib==3.4.3
+torch==1.8.0
+torchvision==0.4.1+cpu
+torchinfo==1.6.3
+dgl==0.6.1
+scikit-learn==0.24.2
+fiona==1.8.13
+shapely==2.0.1
+
