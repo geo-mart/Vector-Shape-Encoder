@@ -1,4 +1,4 @@
-# Code for polygon encoding
+# Polygon encoding
 
 ## Code
 * [Polygon encoding notebook](polygon_encoding.ipynb) for polygons
