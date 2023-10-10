@@ -1,4 +1,4 @@
-# CaGIS2023
+# Code for polygon encoding
 
 ## Code
 * [Polygon encoding notebook](polygon_encoding.ipynb) for polygons
